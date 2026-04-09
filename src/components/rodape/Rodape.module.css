@@ -1,0 +1,11 @@
+.rodape{
+    background: var(--preto);
+    padding: 0.5rem 1rem;
+    color: var(--cinza);
+
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+}
