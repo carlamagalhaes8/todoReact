@@ -3,15 +3,18 @@ import { Router } from './Router'
 
 import './App.css'
 
-
+import { AppContextProvider } from './contexts';
 
 const App = () => {
 
   return (
-    <BrowserRouter>
-      <Router/>
+    <AppContextProvider>
+      <BrowserRouter>
+        <Router/>
 
-    </BrowserRouter>
+      </BrowserRouter>
+    </AppContextProvider>
+    
   )
 }
 
