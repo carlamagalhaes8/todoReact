@@ -11,6 +11,30 @@
     {
       "id": "3",
       "nome": "item 3"
+    },
+    {
+      "nome": "deu certo",
+      "id": "iDzK0r0pEP4"
+    },
+    {
+      "nome": "tr",
+      "id": "BDthfhRLfYM"
+    },
+    {
+      "nome": "oi",
+      "id": "DJFO7lVyoYc"
+    },
+    {
+      "nome": "oi",
+      "id": "dSg4nW2nOrg"
+    },
+    {
+      "nome": "oi",
+      "id": "iSyBCeggWVo"
+    },
+    {
+      "nome": "oi",
+      "id": "vr_Rvh-WbvM"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
